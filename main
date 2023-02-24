@@ -69,4 +69,4 @@ class Cube
 
         return result;
     }
-}
+
